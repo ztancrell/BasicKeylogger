@@ -18,7 +18,7 @@ A simple, educational C++ console keylogger application with a menu, fun easter 
 - **Keylogging**:
   - Windows: Uses native API to capture keystrokes (including special keys).
   - Linux/macOS: Uses raw terminal mode for basic keystroke capture.
-- **Easter Eggs**: Enter secret menu options "69" or "420" for a surprise.
+- **Easter Eggs**: Enter secret menu options "420" for a surprise.
 - **Cross-platform**: Works on both Windows and Linux/macOS.
 - **Colorful and fun**: Includes playful ASCII art and beeps.
 
