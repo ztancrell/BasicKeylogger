@@ -1,7 +1,7 @@
 # BasicKeylogger
 
-A simple, educational C++ console keylogger application with a menu, fun easter eggs, and support for both Windows and Linux/macOS terminals.
-
+ A simple, educational C++ console keylogger application with a menu.
+ 
 ---
 
 ## ⚠️ DISCLAIMER
