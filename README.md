@@ -1,7 +1,3 @@
-# BasicKeylogger
-
- A simple, educational C++ console keylogger application with a menu.
- 
 ---
 
 ## ⚠️ DISCLAIMER
@@ -10,6 +6,12 @@
 >
 > Do not use this software to violate other people's privacy or break the law. Always obtain explicit permission before running any keylogger on a system you do not own or control.
 
+---
+
+# BasicKeylogger
+
+ A simple, educational C++ console keylogger application with a menu.
+ 
 ---
 
 ## Features
